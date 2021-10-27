@@ -37,6 +37,5 @@ public class ActivityRegistros extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-
     }
 }
